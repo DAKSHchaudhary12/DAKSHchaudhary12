@@ -5,6 +5,8 @@
 # 💫 About Me:
 🌱 I’m currently learning Web Development && Data Structures && Machine Learning<br>👨‍💻 Portfolio https://dcport-12.netlify.app<br>💬 Ask me about Web Development, ML, DS<br>📫 How to reach me cdaksh977@gmail.com<br>⚡ Fun fact "Programmers are wizards who turn coffee into code."
 
+[![](https://visitcount.itsvg.in/api?id=DAKSHchaudhary12&icon=6&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dcphotos12) 
