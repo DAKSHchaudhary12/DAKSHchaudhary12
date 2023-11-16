@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Daksh Chaudhary</h1>
+<h3 align="center">"Programmers are wizards who turn coffee into code."</h3>
+
+
 # 💫 About Me:
 🌱 I’m currently learning Web Development && Data Structures && Machine Learning<br>👨‍💻 Portfolio https://dcport-12.netlify.app<br>💬 Ask me about Web Development, ML, DS<br>📫 How to reach me cdaksh977@gmail.com<br>⚡ Fun fact "Programmers are wizards who turn coffee into code."
 
