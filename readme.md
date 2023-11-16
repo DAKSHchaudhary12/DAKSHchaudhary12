@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning Web Development && Data Structures && Machine Learning<br>👨‍💻 Portfolio https://dcport-12.netlify.app<br>💬 Ask me about Web Development, ML, DS<br>📫 How to reach me cdaksh977@gmail.com<br>⚡ Fun fact "Programmers are wizards who turn coffee into code."
+🌱 I’m currently learning Web Development && Data Structures && Machine Learning<br>👨‍💻 Portfolio https://dcport-12.netlify.app<br>💬 Ask me about Web Development, ML, DS<br>📫 How to reach me cdaksh977@gmail.com<br>
 
 [![](https://visitcount.itsvg.in/api?id=DAKSHchaudhary12&icon=6&color=0)](https://visitcount.itsvg.in)
 
