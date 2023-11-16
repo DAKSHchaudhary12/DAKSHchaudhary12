@@ -2,7 +2,6 @@
 <h3 align="center">"Dream in code, build with brilliance"</h3>
 
 <br></br>
-<br></br>
 
 - 🌱 I’m currently learning **Web Development && Data Structures && Machine Learning**
 
